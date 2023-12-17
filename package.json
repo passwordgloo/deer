@@ -1,0 +1,19 @@
+{
+  "name": "deer_library",
+  "version": "2.0.0",
+  "description": "local libraray",
+  "author": "passwordgloo",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "start": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "dependencies": {
+    "vuepress": "2.0.0-rc.0",
+    "vuepress-theme-reco": "2.0.0-rc.1"
+  },
+  "devDependencies": {
+    "vuepress-plugin-md-enhance": "2.0.0-rc.5"
+  }
+}
