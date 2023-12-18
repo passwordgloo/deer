@@ -15,17 +15,17 @@ export const navbar = [
             },
             {
                 text: "中国近代史纲要",
-                link: "/docs/politics/history/",
+                link: "/docs/politics/history/1.md",
                 icon: "SendToBack"
             },
             {
                 text: "毛泽东思想和中特",
-                link: "/docs/politics/mzdzt/",
+                link: "/docs/politics/mzdzt/1.md",
                 icon: "SendToBack"
             },
             {
                 text: "法律基础和道德修养",
-                link: "/docs/politics/law/",
+                link: "/docs/politics/law/1.md",
                 icon:"SendToBack"
         }
         ]
