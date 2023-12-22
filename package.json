@@ -13,8 +13,5 @@
   "dependencies": {
     "vuepress": "2.0.0-rc.0",
     "vuepress-theme-reco": "2.0.0-rc.5"
-  },
-  "devDependencies": {
-    "vuepress-plugin-md-enhance": "^2.0.0-rc.5"
   }
 }
