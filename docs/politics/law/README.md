@@ -1,7 +1,6 @@
 ---
 title: 0.人生的青春之问
 date: 2022-12-31
-icon: cloud
 ---
 
 ## 做有理想有本领有担当的时代新人<Badge text="了解" type="tip" />

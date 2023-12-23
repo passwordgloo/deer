@@ -1,7 +1,7 @@
 ---
 title: 马克思主义原理导论
 date: 2022-12-31
-icon: bars
+
 ---
 ## 哲学的概念<Badge text="了解" type="tip" />
 

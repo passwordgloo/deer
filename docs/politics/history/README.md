@@ -1,7 +1,6 @@
 ---
 title: 0.反抗外国经略的斗争
 date: 2023-01-02
-icon: earth-asia
 ---
 
 ## 鸦片战争前的中国与世界<Badge text="了解" type="tip" />

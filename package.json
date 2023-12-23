@@ -1,17 +1,30 @@
 {
-  "name": "vuepress-theme-reco-demo",
-  "version": "2.0.0",
-  "description": "Demo for vuepress-theme-reco@2.x.",
-  "repository": "git@github.com:recoluan/vuepress-theme-reco-demo.git",
-  "author": "reco_luan <recoluan@outlook.com>",
-  "license": "MIT",
+  "name": "deer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "vuepress dev .",
-    "start": "vuepress dev .",
-    "build": "vuepress build ."
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:clean-dev": "vuepress dev docs --clean-cache"
   },
-  "dependencies": {
+  "keywords": [
+    "deer",
+    "全文搜素",
+    "小鹿资料库"
+  ],
+  "author": "passwordgloo",
+  "homepage": "https://iglooblog.top",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/passwordgloo/deer"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-rc.0",
+    "@vuepress/plugin-docsearch": "2.0.0-rc.0",
+    "vue": "^3.3.13",
     "vuepress": "2.0.0-rc.0",
-    "vuepress-theme-reco": "2.0.0-rc.5"
+    "vuepress-plugin-md-enhance": "2.0.0-rc.5"
   }
 }
