@@ -75,12 +75,13 @@ export default {
             selectLanguageName: '简体中文',
             title: '小鹿资料库',
             description: '繁星似海 熠熠生辉',
+            lang: "zh-CN",
         },
-        '/en/': {
-            selectLanguageName: 'English',
-            title: 'deer library',
-            description: 'Oh my deer',
-        },
+        // '/en/': {
+        //     selectLanguageName: 'English',
+        //     title: 'deer library',
+        //     description: 'Oh my deer',
+        // },
     },
 
     theme: defaultTheme(themeConfig)

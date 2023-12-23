@@ -8,6 +8,9 @@ export const themeConfig = {
             lastUpdatedText: '最后更新时间',
             navbar: zhConfig.navbar,
             sidebar: zhConfig.sidebar,
+            metaLocales: {
+                editLink: "在 GitHub 上编辑此页",
+            },
         },
     },
     logo: '/logo.svg',
