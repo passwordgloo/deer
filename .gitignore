@@ -10,8 +10,8 @@ yarn.lock
 #build result
 dist
 lib
-.vuepress/temp
-.vuepress/cache
+docs/.vuepress/.temp
+docs/.vuepress/.cache
 
 # Logs
 logs

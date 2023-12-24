@@ -9,7 +9,7 @@ export default {
         mdEnhancePlugin({
             tabs: true,
             hint: true,
-            alert: true
+            alert: true,
         }),
         docsearchPlugin({
             appId: "CI6QLU7S6T",

@@ -1,5 +1,10 @@
 @import 'palette';
 
+:root {
+    scroll-behavior: smooth;
+    --c-tip:  rgb(119, 93, 232);
+}
+
 /* scrollbar style */
 
 ::-webkit-scrollbar-thumb:active {
@@ -48,14 +53,6 @@ li::marker {
 
 .dropdown-wrapper,a.nav-link,.repo-link,.outlook-icon{
     cursor: url(/light/link.cur),auto;
-}
-
-html[data-theme=dark]{
-    cursor: url(/dark/pointer.cur),auto;
-}
-
-.logo,.site-name,span[property=headline]{
-    cursor: url(/dark/link.cur),auto;
 }
 
 code {
@@ -152,4 +149,20 @@ sup:hover::after {
     background: $theme-color;
     color: #fff;
     text-shadow: none;
+}
+
+// dark style
+
+html.dark {
+    --c-brand:#34bb9e;
+    --c-tip: rgb(119, 93, 232);
+    --c-bg:#161618;
+}
+
+html[data-theme=dark]{
+    cursor: url(/dark/pointer.cur),auto;
+}
+
+.logo,.site-name,span[property=headline]{
+    cursor: url(/dark/link.cur),auto;
 }

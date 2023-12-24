@@ -4,7 +4,7 @@ date: 2023-02-02
 icon: Menu
 ---
 
-### 社会工作综合能力<Badge text="理论" type="warning" />
+### 社会工作综合能力 <Badge text="理论" type="warning" />
 
 1. [社会工作概述](1)
 2. [社会工作价值](2)
@@ -15,7 +15,7 @@ icon: Menu
 7. [社会工作行政](7)
 8. 社会工作研究
 
-### 社会工作实务<Badge text="实践" type="tip" />
+### 社会工作实务 <Badge text="实践" type="tip" />
 
 1. 社会工作实务的通用过程
 2. 儿童社会工作
@@ -55,7 +55,7 @@ icon: Menu
 3. 社区社会组织
 4. 其他组织
 
-### 社区社会政策与法规<Badge text="建设与服务" type="danger" />
+### 社区社会政策与法规 <Badge text="建设与服务" type="danger" />
 
 ::: info
 
@@ -63,7 +63,7 @@ icon: Menu
 
 :::
 
-### 案例分析<Badge text="建议" type="tip" />
+### 案例分析 <Badge text="建议" type="tip" />
 
 ## 学习方法
 

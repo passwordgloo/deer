@@ -1,3 +1,8 @@
+:root {
+  scroll-behavior: smooth;
+  --c-tip: #775de8;
+}
+
 /* scrollbar style */
 ::-webkit-scrollbar-thumb:active {
   background: #FF6347;
@@ -44,14 +49,6 @@ li::marker {
 
 .dropdown-wrapper, a.nav-link, .repo-link, .outlook-icon {
   cursor: url(/light/link.cur), auto;
-}
-
-html[data-theme=dark] {
-  cursor: url(/dark/pointer.cur), auto;
-}
-
-.logo, .site-name, span[property=headline] {
-  cursor: url(/dark/link.cur), auto;
 }
 
 code {
@@ -140,4 +137,18 @@ sup:hover::after {
   background: #2196f3;
   color: #fff;
   text-shadow: none;
+}
+
+html.dark {
+  --c-brand: #34bb9e;
+  --c-tip: #775de8;
+  --c-bg: #161618;
+}
+
+html[data-theme=dark] {
+  cursor: url(/dark/pointer.cur), auto;
+}
+
+.logo, .site-name, span[property=headline] {
+  cursor: url(/dark/link.cur), auto;
 }
