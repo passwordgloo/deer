@@ -10,6 +10,7 @@ export default {
             tabs: true,
             hint: true,
             alert: true,
+            footnote:true,
         }),
         docsearchPlugin({
             appId: "CI6QLU7S6T",
@@ -73,7 +74,7 @@ export default {
 
         '/': {
             selectLanguageName: '简体中文',
-            title: '小鹿资料库',
+            title: '小鹿乐园',
             description: '繁星似海 熠熠生辉',
             lang: "zh-CN",
         },

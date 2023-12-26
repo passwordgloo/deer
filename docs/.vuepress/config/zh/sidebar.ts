@@ -50,7 +50,7 @@ export const sidebar = {
     "/social/senior/": [
         {
             text: "法律法规",
-            children: ["/docs/social/senior/law/1.md", "/docs/social/senior/law/2.md"]
+            children: ["/social/senior/law/1.md", "/social/senior/law/2.md"]
         },
         {
             text: "中级社工证",
