@@ -50,12 +50,12 @@ export const sidebar = {
     "/social/senior/": [
         {
             text: "法律法规",
-            children: ["/social/senior/law/1.md", "/social/senior/law/2.md"]
+            children: ["/social/senior/law/1.1.md", "/social/senior/law/1.2.md","/social/senior/law/1.3.md","/social/senior/law/2.1.md"]
         },
-        {
-            text: "中级社工证",
-            collapsible: true,
-            children: ["README.md", "1", "2", "3"]
-        }
+        // {
+        //     text: "中级社工证",
+        //     collapsible: true,
+        //     children: ["README.md", "1", "2", "3"]
+        // }
     ]
 }
