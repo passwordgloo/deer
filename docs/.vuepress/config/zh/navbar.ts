@@ -41,17 +41,4 @@ export const navbar = [
             }
         ]
     },
-    {
-        text: "社会工作者",
-        children: [
-            {
-                text: "初级社工证",
-                link: "/social/junior/",
-            },
-            {
-                text: "中级社工证",
-                link: "/social/senior/",
-            }
-        ]
-    }
 ]

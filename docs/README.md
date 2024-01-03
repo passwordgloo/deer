@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /hello.gif
-heroText: 小鹿资料库
-tagline: 繁星似海 熠熠生辉
+heroText: 小鹿乐园
+tagline: 大文本资料检索库
 actions:
   - text: 博客
     link: https://iglooblog.top
